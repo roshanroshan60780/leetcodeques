@@ -8,33 +8,13 @@
  * };
  */
 class Solution {
-private:
-    vector<TreeNode*> pathp,pathq;
-    void nodepath(TreeNode* root , TreeNode* p, TreeNode* q , vector<TreeNode*>& path){
-        if(!pathp.empty() && !pathq.empty()) return;
-        if(!root) return;
-        path.push_back(root);
-        if(root==q) pathq=path;
-        if(root==p) pathp=path;
-        if(root->left){
-            nodepath(root->left,p,q,path);
-            path.pop_back();
-        }
-        if(root->right){
-            nodepath(root->right,p,q,path);
-            path.pop_back();
-        }
-    }
 public:
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-        vector<TreeNode*> path;
-        nodepath(root,p,q,path);
-        int sp=pathp.size();
-        int sq=pathq.size();
-        int i=0;
-        for( ; i<min(sp,sq) ; i++){
-            if(pathp[i]!=pathq[i]) break;
-        }
-        return path[i-1];
+        if(root==nullptr || root==p || root==q) return root;
+        TreeNode* left=lowestCommonAncestor(root->left , p , q);
+        TreeNode* right=lowestCommonAncestor(root->right , p , q);
+        if(left==nullptr) return right;
+        else if(right==nullptr) return left;
+        else return root;
     }
 };
