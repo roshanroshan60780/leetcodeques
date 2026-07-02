@@ -11,20 +11,32 @@
  */
 class Solution {
 private:
-    int temp;
-    void helper(){
-        temp=1;
+    int heightleft(TreeNode* root) {
+        int height=0;
+        TreeNode* temp=root;
+        while(temp){
+            height++;
+            temp=temp->left;
+        }
+        return height;
+    }
+    int heightright(TreeNode* root) {
+        int height=0;
+        TreeNode* temp=root;
+        while(temp){
+            height++;
+            temp=temp->right;
+        }
+        return height;
     }
 public:
     int countNodes(TreeNode* root) {
-        if(!root){
-            if(temp) return temp-1;
-            return temp;
+        if(root==nullptr) return 0;
+        int lh=heightleft(root);
+        int rh=heightright(root);
+        if(lh==rh){
+            return (1<<lh) - 1;
         }
-        temp++;
-        countNodes(root->left);
-        
-        countNodes(root->right);
-        return temp;
+        return 1 + countNodes(root->left) + countNodes(root->right);
     }
 };
