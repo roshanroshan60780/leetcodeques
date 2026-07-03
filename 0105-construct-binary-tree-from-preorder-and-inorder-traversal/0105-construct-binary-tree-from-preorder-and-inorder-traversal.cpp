@@ -11,10 +11,6 @@
  */
 class Solution {
 private:
-    int findidx(vector<int>& arr , int target){
-        for(int i=0 ; i<arr.size() ; i++) if(arr[i]== target) return i;
-        return 0;
-    }
     TreeNode* helper(vector<int>& preorder, vector<int>& inorder,int ps ,int pe , int is,int ie , unordered_map<int,int> &mp){
         if(ps>pe || is>ie) return NULL;
         if(ps==pe) return new TreeNode(preorder[ps]);
