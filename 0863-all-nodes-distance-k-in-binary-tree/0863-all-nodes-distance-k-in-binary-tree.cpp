@@ -9,31 +9,41 @@
  */
 class Solution {
 private:
-    void helperdown(TreeNode* curr , int k , int d ,vector<int> & ans){
-        if(!curr) return;
-        if(d==k){
-            ans.push_back(curr->val);
-            return;
-        }
-        helperdown(curr->left , k , d+1 , ans );
-        helperdown(curr->right , k , d+1 , ans);
-    }
-    void helperup(TreeNode* curr , TreeNode* root, int k , int d , unordered_map<TreeNode* , TreeNode*>& parent , vector<int> & ans){
-        if(curr==root) return;
-        TreeNode* p=curr;
-        while(d<k && p!=root){
-            d++; // distance increase by 1 when we go to parent of p
-            if(d==k){
-                ans.push_back(parent[p]->val);
-                return;
-            }
-            if(parent[p]->left != p) helperdown(parent[p]->left , k , d+1 , ans);
-            else helperdown(parent[p]->right , k , d+1 , ans);
+    vector<int> bfsfromtarget(TreeNode* target , int k , unordered_map<TreeNode* , TreeNode*>& parent ){
+        int currentlevel=0;
+        queue<TreeNode*> q;
+        unordered_set<TreeNode*> visited;
+        q.push(target);
+        visited.insert(target);
+        while(!q.empty()){
+            int size=q.size();
             
-            p=parent[p];
+            if(currentlevel==k) break;
+            currentlevel++;
+            for(int i=0 ; i<size ; i++){
+                TreeNode* temp=q.front();
+                q.pop();
+                if(temp->left && visited.find(temp->left)==visited.end()){
+                    visited.insert(temp->left);
+                    q.push(temp->left);
+                }
+                if(temp->right && visited.find(temp->right)==visited.end()){
+                    visited.insert(temp->right);
+                    q.push(temp->right);
+                }
+                if(parent.count(temp) && visited.find(parent[temp])== visited.end()){
+                    visited.insert(parent[temp]);
+                    q.push(parent[temp]);
+                }
+            }
         }
+        vector<int> result;
+        while(!q.empty()){
+            result.push_back(q.front()->val);
+            q.pop();
+        }
+        return result;
     }
-    
 public:
     vector<int> distanceK(TreeNode* root, TreeNode* target, int k) {
         unordered_map<TreeNode* , TreeNode*> parent;
@@ -43,14 +53,13 @@ public:
         while(!q.empty()){
             temp=q.front();
             q.pop();
-            if(temp->left) q.push(temp->left);
-            if(temp->right) q.push(temp->right);
-            parent[temp->left]=temp;
-            parent[temp->right]=temp;
+            if(temp->left){
+                q.push(temp->left);
+                parent[temp->left]=temp;}
+            if(temp->right){
+                q.push(temp->right);
+                parent[temp->right]=temp;}
         }
-        vector<int> ans;
-        helperdown(target , k , 0 , ans);
-        helperup(target , root , k , 0 , parent , ans);
-        return ans;
+        return bfsfromtarget(target , k , parent);
     }
 };
