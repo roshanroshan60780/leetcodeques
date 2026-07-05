@@ -22,9 +22,6 @@ private:
     }
 public:
     bool isValidBST(TreeNode* root) {
-        if(!root) return true;
-        if(root->left && root->left->val >= root->val) return false;
-        if(root->right && root->right->val <= root->val) return false;
-        return helper(root->left , INT_MIN - 1LL , root->val) && helper(root->right , root->val , INT_MAX +1LL);
+        return helper(root , INT_MIN - 1LL , INT_MAX +1LL);
     }
 };
