@@ -1,21 +1,19 @@
 class Solution {
 private:
-    bool detect(vector<vector<int>>& adj, vector<int>& visited, int curr,
-                unordered_set<int>& path) {
-        if (path.count(curr))
+    bool detect(vector<vector<int>>& adj, vector<int>& visited, int curr) {
+        if (visited[curr]==1)
             return false;
-        if (visited[curr])
-            return true;
-        visited[curr] = 1;
+        if (visited[curr]==2)                //visited[curr]=0 : unvisited node
+            return true;                     //visited[curr]=1 : node under recursion stack
+        visited[curr] = 1;                   //visited[curr]=2 : node is completely proces, means all childs are visited
         int s = adj[curr].size();
         bool ans = true;
-        path.insert(curr);
         for (int i = 0; i < s; i++) {
-            ans = ans && detect(adj, visited, adj[curr][i], path);
+            ans = ans && detect(adj, visited, adj[curr][i]);
             if (!ans)
                 return false;
         }
-        path.erase(curr);
+        visited[curr]=2;
         return true;
     }
 
@@ -25,11 +23,10 @@ public:
         for (int i = 0; i < prerequisites.size(); i++) {
             adj[prerequisites[i][0]].push_back(prerequisites[i][1]);
         }
-        unordered_set<int> path;
         vector<int> visited(numCourses,0);
         for (int i = 0; i < numCourses; i++) {
             if (!visited[i]) {
-                if (!detect(adj, visited, i, path))
+                if (!detect(adj, visited, i))
                     return false;
             }
         }
