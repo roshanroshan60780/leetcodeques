@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/roshanroshan60780/leetcodeques/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/roshanroshan60780/leetcodeques/tree/master/0207-course-schedule) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/roshanroshan60780/leetcodeques/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0542-01-matrix](https://github.com/roshanroshan60780/leetcodeques/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/roshanroshan60780/leetcodeques/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/roshanroshan60780/leetcodeques/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/roshanroshan60780/leetcodeques/tree/master/0733-flood-fill) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/roshanroshan60780/leetcodeques/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/roshanroshan60780/leetcodeques/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/roshanroshan60780/leetcodeques/tree/master/0219-contains-duplicate-ii) |
+| [0542-01-matrix](https://github.com/roshanroshan60780/leetcodeques/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/roshanroshan60780/leetcodeques/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/roshanroshan60780/leetcodeques/tree/master/0994-rotting-oranges) |
 ## Divide and Conquer
@@ -157,10 +159,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/roshanroshan60780/leetcodeques/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/roshanroshan60780/leetcodeques/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/roshanroshan60780/leetcodeques/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/roshanroshan60780/leetcodeques/tree/master/0994-rotting-oranges) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/roshanroshan60780/leetcodeques/tree/master/0207-course-schedule) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0542-01-matrix](https://github.com/roshanroshan60780/leetcodeques/tree/master/0542-01-matrix) |
 <!---LeetCode Topics End-->
