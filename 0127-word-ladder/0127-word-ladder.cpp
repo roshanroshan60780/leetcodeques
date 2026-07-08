@@ -6,8 +6,7 @@ public:
         if(st.find(endWord)==st.end()) return 0;
         queue<pair<string,int>> q;
         q.push({beginWord , 1});
-        unordered_map<string,int> visited;
-        visited[beginWord]=1;
+        st.erase(beginWord);
         while(!q.empty()){
             pair<string,int> temp = q.front();
             q.pop();
@@ -18,9 +17,9 @@ public:
                 string nword=word;
                 for(int j=97 ; j<=122 ; j++){
                     nword[i]=j;
-                    if(st.find(nword)!=st.end() && !visited[nword]){
+                    if(st.find(nword)!=st.end()){
                         q.push({nword,step+1});
-                        visited[nword]=1;
+                        st.erase(nword);
                     }
                 }
             }
