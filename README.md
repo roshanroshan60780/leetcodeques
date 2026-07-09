@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/roshanroshan60780/leetcodeques/tree/master/0064-minimum-path-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/roshanroshan60780/leetcodeques/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/roshanroshan60780/leetcodeques/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0130-surrounded-regions](https://github.com/roshanroshan60780/leetcodeques/tree/master/0130-surrounded-regions) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/roshanroshan60780/leetcodeques/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/roshanroshan60780/leetcodeques/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/roshanroshan60780/leetcodeques/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/roshanroshan60780/leetcodeques/tree/master/0542-01-matrix) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/roshanroshan60780/leetcodeques/tree/master/0064-minimum-path-sum) |
 | [0542-01-matrix](https://github.com/roshanroshan60780/leetcodeques/tree/master/0542-01-matrix) |
 ## Backtracking
 |  |
