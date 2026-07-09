@@ -1,36 +1,22 @@
 class Solution {
 private:
-    bool check(vector<vector<int>>& graph , int curr, vector<int> &coloured){
-        
-        queue<int> q;
-        q.push(curr);
-        coloured[curr]=1;
-        int col=2;
-        while(!q.empty()){
-            int size=q.size();
-            for(int i=0 ; i<size ; i++){
-                int node=q.front();
-                q.pop();
-                int s=graph[node].size();
-                for(int j=0 ; j<s ; j++){
-                    if(!coloured[graph[node][j]]){
-                        q.push(graph[node][j]);
-                        coloured[graph[node][j]]=col;
-                    }
-                    else if(coloured[graph[node][j]]!=col) return false;
-                }
+    bool check(vector<vector<int>>& graph ,vector<int> &coloured, int node, int colour){
+        coloured[node]=colour;
+        for(auto it : graph[node]){
+            if(coloured[it]==-1){
+                if(!check(graph,coloured,it,!colour)) return false;
             }
-            col = (col==1)? 2 : 1;
+            else if(coloured[it]==colour) return false;
         }
         return true;
     }
 public:
     bool isBipartite(vector<vector<int>>& graph) {
         int n=graph.size();
-        vector<int> coloured(n);
+        vector<int> coloured(n,-1);
         for(int i=0 ; i<n ; i++){
-            if(!coloured[i]){
-                if(!check(graph,i,coloured)) return false;
+            if(coloured[i]==-1){
+                if(!check(graph,coloured,i,0)) return false;
             }
         }
         return true;
