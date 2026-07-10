@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/roshanroshan60780/leetcodeques/tree/master/0222-count-complete-tree-nodes) |
+| [0342-power-of-four](https://github.com/roshanroshan60780/leetcodeques/tree/master/0342-power-of-four) |
 ## Linked List
 |  |
 | ------- |
@@ -216,8 +217,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/roshanroshan60780/leetcodeques/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/roshanroshan60780/leetcodeques/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/roshanroshan60780/leetcodeques/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/roshanroshan60780/leetcodeques/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
