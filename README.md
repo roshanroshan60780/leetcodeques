@@ -212,4 +212,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/roshanroshan60780/leetcodeques/tree/master/0045-jump-game-ii) |
+## Math
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/roshanroshan60780/leetcodeques/tree/master/0326-power-of-three) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/roshanroshan60780/leetcodeques/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
