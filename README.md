@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/roshanroshan60780/leetcodeques/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/roshanroshan60780/leetcodeques/tree/master/0045-jump-game-ii) |
+| [0063-unique-paths-ii](https://github.com/roshanroshan60780/leetcodeques/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/roshanroshan60780/leetcodeques/tree/master/0064-minimum-path-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/roshanroshan60780/leetcodeques/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/roshanroshan60780/leetcodeques/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/roshanroshan60780/leetcodeques/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/roshanroshan60780/leetcodeques/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/roshanroshan60780/leetcodeques/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/roshanroshan60780/leetcodeques/tree/master/0200-number-of-islands) |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/roshanroshan60780/leetcodeques/tree/master/0045-jump-game-ii) |
 | [0062-unique-paths](https://github.com/roshanroshan60780/leetcodeques/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/roshanroshan60780/leetcodeques/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/roshanroshan60780/leetcodeques/tree/master/0064-minimum-path-sum) |
 | [0542-01-matrix](https://github.com/roshanroshan60780/leetcodeques/tree/master/0542-01-matrix) |
 ## Backtracking
