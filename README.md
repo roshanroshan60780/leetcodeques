@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/roshanroshan60780/leetcodeques/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/roshanroshan60780/leetcodeques/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/roshanroshan60780/leetcodeques/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/roshanroshan60780/leetcodeques/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Binary Tree
 |  |
 | ------- |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/roshanroshan60780/leetcodeques/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/roshanroshan60780/leetcodeques/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/roshanroshan60780/leetcodeques/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/roshanroshan60780/leetcodeques/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1288-remove-covered-intervals](https://github.com/roshanroshan60780/leetcodeques/tree/master/1288-remove-covered-intervals) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/roshanroshan60780/leetcodeques/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Divide and Conquer
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/roshanroshan60780/leetcodeques/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/roshanroshan60780/leetcodeques/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/roshanroshan60780/leetcodeques/tree/master/1020-number-of-enclaves) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/roshanroshan60780/leetcodeques/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Topological Sort
 |  |
 | ------- |
