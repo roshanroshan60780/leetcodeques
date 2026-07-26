@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/roshanroshan60780/leetcodeques/tree/master/0025-reverse-nodes-in-k-group) |
+| [0061-rotate-list](https://github.com/roshanroshan60780/leetcodeques/tree/master/0061-rotate-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/roshanroshan60780/leetcodeques/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## String
 |  |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/roshanroshan60780/leetcodeques/tree/master/0027-remove-element) |
+| [0061-rotate-list](https://github.com/roshanroshan60780/leetcodeques/tree/master/0061-rotate-list) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/roshanroshan60780/leetcodeques/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Combinatorics
 |  |
