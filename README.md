@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/roshanroshan60780/leetcodeques/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/roshanroshan60780/leetcodeques/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/roshanroshan60780/leetcodeques/tree/master/0061-rotate-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/roshanroshan60780/leetcodeques/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/roshanroshan60780/leetcodeques/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/roshanroshan60780/leetcodeques/tree/master/0025-reverse-nodes-in-k-group) |
 | [0326-power-of-three](https://github.com/roshanroshan60780/leetcodeques/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/roshanroshan60780/leetcodeques/tree/master/0342-power-of-four) |
