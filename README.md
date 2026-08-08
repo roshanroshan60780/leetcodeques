@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/roshanroshan60780/leetcodeques/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/roshanroshan60780/leetcodeques/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/roshanroshan60780/leetcodeques/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/roshanroshan60780/leetcodeques/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/roshanroshan60780/leetcodeques/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/roshanroshan60780/leetcodeques/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/roshanroshan60780/leetcodeques/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/roshanroshan60780/leetcodeques/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/roshanroshan60780/leetcodeques/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/roshanroshan60780/leetcodeques/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/roshanroshan60780/leetcodeques/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/roshanroshan60780/leetcodeques/tree/master/0802-find-eventual-safe-states) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/roshanroshan60780/leetcodeques/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/roshanroshan60780/leetcodeques/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/roshanroshan60780/leetcodeques/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/roshanroshan60780/leetcodeques/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/roshanroshan60780/leetcodeques/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/roshanroshan60780/leetcodeques/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/roshanroshan60780/leetcodeques/tree/master/0802-find-eventual-safe-states) |
 ## Matrix
 |  |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/roshanroshan60780/leetcodeques/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/roshanroshan60780/leetcodeques/tree/master/0064-minimum-path-sum) |
 | [0542-01-matrix](https://github.com/roshanroshan60780/leetcodeques/tree/master/0542-01-matrix) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/roshanroshan60780/leetcodeques/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Backtracking
 |  |
 | ------- |
@@ -298,9 +302,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/roshanroshan60780/leetcodeques/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/roshanroshan60780/leetcodeques/tree/master/1631-path-with-minimum-effort) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/roshanroshan60780/leetcodeques/tree/master/1631-path-with-minimum-effort) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/roshanroshan60780/leetcodeques/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
