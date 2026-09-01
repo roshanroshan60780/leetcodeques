@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0126-word-ladder-ii](https://github.com/roshanroshan60780/leetcodeques/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/roshanroshan60780/leetcodeques/tree/master/0127-word-ladder) |
 | [0219-contains-duplicate-ii](https://github.com/roshanroshan60780/leetcodeques/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/roshanroshan60780/leetcodeques/tree/master/0229-majority-element-ii) |
 | [0645-set-mismatch](https://github.com/roshanroshan60780/leetcodeques/tree/master/0645-set-mismatch) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/roshanroshan60780/leetcodeques/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/roshanroshan60780/leetcodeques/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/roshanroshan60780/leetcodeques/tree/master/0229-majority-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/roshanroshan60780/leetcodeques/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/roshanroshan60780/leetcodeques/tree/master/0645-set-mismatch) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/roshanroshan60780/leetcodeques/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/roshanroshan60780/leetcodeques/tree/master/0213-house-robber-ii) |
 | [0219-contains-duplicate-ii](https://github.com/roshanroshan60780/leetcodeques/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/roshanroshan60780/leetcodeques/tree/master/0228-summary-ranges) |
+| [0229-majority-element-ii](https://github.com/roshanroshan60780/leetcodeques/tree/master/0229-majority-element-ii) |
 | [0542-01-matrix](https://github.com/roshanroshan60780/leetcodeques/tree/master/0542-01-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/roshanroshan60780/leetcodeques/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/roshanroshan60780/leetcodeques/tree/master/0645-set-mismatch) |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/roshanroshan60780/leetcodeques/tree/master/0229-majority-element-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/roshanroshan60780/leetcodeques/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Heap (Priority Queue)
 |  |
@@ -329,4 +333,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/roshanroshan60780/leetcodeques/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/roshanroshan60780/leetcodeques/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/roshanroshan60780/leetcodeques/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/roshanroshan60780/leetcodeques/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
