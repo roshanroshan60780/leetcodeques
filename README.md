@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/roshanroshan60780/leetcodeques/tree/master/0015-3sum) |
 | [0229-majority-element-ii](https://github.com/roshanroshan60780/leetcodeques/tree/master/0229-majority-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/roshanroshan60780/leetcodeques/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/roshanroshan60780/leetcodeques/tree/master/0645-set-mismatch) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/roshanroshan60780/leetcodeques/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/roshanroshan60780/leetcodeques/tree/master/0027-remove-element) |
 | [0045-jump-game-ii](https://github.com/roshanroshan60780/leetcodeques/tree/master/0045-jump-game-ii) |
 | [0063-unique-paths-ii](https://github.com/roshanroshan60780/leetcodeques/tree/master/0063-unique-paths-ii) |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/roshanroshan60780/leetcodeques/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/roshanroshan60780/leetcodeques/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/roshanroshan60780/leetcodeques/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/roshanroshan60780/leetcodeques/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
