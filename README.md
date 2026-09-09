@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/roshanroshan60780/leetcodeques/tree/master/1288-remove-covered-intervals) |
 | [1631-path-with-minimum-effort](https://github.com/roshanroshan60780/leetcodeques/tree/master/1631-path-with-minimum-effort) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/roshanroshan60780/leetcodeques/tree/master/2161-partition-array-according-to-given-pivot) |
+| [3840-house-robber-v](https://github.com/roshanroshan60780/leetcodeques/tree/master/3840-house-robber-v) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/roshanroshan60780/leetcodeques/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/roshanroshan60780/leetcodeques/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/roshanroshan60780/leetcodeques/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3840-house-robber-v](https://github.com/roshanroshan60780/leetcodeques/tree/master/3840-house-robber-v) |
 ## Backtracking
 |  |
 | ------- |
