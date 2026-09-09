@@ -10,9 +10,16 @@
  * };
  */
 class Solution {
+struct Hash {
+    size_t operator()(const pair<TreeNode*, bool>& p) const {
+        return hash<TreeNode*>()(p.first) ^
+               (hash<bool>()(p.second) << 1);
+    }
+};
 private:
 
-    int func(TreeNode* curr , bool last ,map<pair<TreeNode*,bool>,int>& dp){  //last represent wether parent is robbed or not
+    int func(TreeNode* curr , bool last ,unordered_map<pair<TreeNode*, bool>, int, Hash>& dp){
+          //last represent wether parent is robbed or not
         if(!curr) return 0;
         if(dp.count({curr,last})) return dp[{curr,last}];
         if(last){
@@ -23,7 +30,7 @@ private:
     }
 public:
     int rob(TreeNode* root) {
-        map<pair<TreeNode*,bool>,int> dp;
+        unordered_map<pair<TreeNode*, bool>, int, Hash> dp;
         return func(root,false,dp);
     }
 };
