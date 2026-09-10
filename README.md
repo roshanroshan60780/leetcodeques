@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/roshanroshan60780/leetcodeques/tree/master/1288-remove-covered-intervals) |
 | [1631-path-with-minimum-effort](https://github.com/roshanroshan60780/leetcodeques/tree/master/1631-path-with-minimum-effort) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/roshanroshan60780/leetcodeques/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2643-row-with-maximum-ones](https://github.com/roshanroshan60780/leetcodeques/tree/master/2643-row-with-maximum-ones) |
 | [3840-house-robber-v](https://github.com/roshanroshan60780/leetcodeques/tree/master/3840-house-robber-v) |
 ## Divide and Conquer
 |  |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/roshanroshan60780/leetcodeques/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/roshanroshan60780/leetcodeques/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/roshanroshan60780/leetcodeques/tree/master/1631-path-with-minimum-effort) |
+| [2643-row-with-maximum-ones](https://github.com/roshanroshan60780/leetcodeques/tree/master/2643-row-with-maximum-ones) |
 ## Topological Sort
 |  |
 | ------- |
