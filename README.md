@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/roshanroshan60780/leetcodeques/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/roshanroshan60780/leetcodeques/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/roshanroshan60780/leetcodeques/tree/master/0240-search-a-2d-matrix-ii) |
 | [1631-path-with-minimum-effort](https://github.com/roshanroshan60780/leetcodeques/tree/master/1631-path-with-minimum-effort) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/roshanroshan60780/leetcodeques/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/roshanroshan60780/leetcodeques/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/roshanroshan60780/leetcodeques/tree/master/0134-gas-station) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/roshanroshan60780/leetcodeques/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/roshanroshan60780/leetcodeques/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/roshanroshan60780/leetcodeques/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/roshanroshan60780/leetcodeques/tree/master/0213-house-robber-ii) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/roshanroshan60780/leetcodeques/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/roshanroshan60780/leetcodeques/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/roshanroshan60780/leetcodeques/tree/master/0086-partition-list) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/roshanroshan60780/leetcodeques/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/roshanroshan60780/leetcodeques/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/roshanroshan60780/leetcodeques/tree/master/2161-partition-array-according-to-given-pivot) |
 ## Combinatorics
