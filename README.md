@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/roshanroshan60780/leetcodeques/tree/master/0127-word-ladder) |
 | [0219-contains-duplicate-ii](https://github.com/roshanroshan60780/leetcodeques/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/roshanroshan60780/leetcodeques/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/roshanroshan60780/leetcodeques/tree/master/0347-top-k-frequent-elements) |
 | [0645-set-mismatch](https://github.com/roshanroshan60780/leetcodeques/tree/master/0645-set-mismatch) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/roshanroshan60780/leetcodeques/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/roshanroshan60780/leetcodeques/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/roshanroshan60780/leetcodeques/tree/master/0015-3sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/roshanroshan60780/leetcodeques/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/roshanroshan60780/leetcodeques/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/roshanroshan60780/leetcodeques/tree/master/0347-top-k-frequent-elements) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/roshanroshan60780/leetcodeques/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0628-maximum-product-of-three-numbers](https://github.com/roshanroshan60780/leetcodeques/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/roshanroshan60780/leetcodeques/tree/master/0645-set-mismatch) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/roshanroshan60780/leetcodeques/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/roshanroshan60780/leetcodeques/tree/master/0240-search-a-2d-matrix-ii) |
 | [0322-coin-change](https://github.com/roshanroshan60780/leetcodeques/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/roshanroshan60780/leetcodeques/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/roshanroshan60780/leetcodeques/tree/master/0416-partition-equal-subset-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/roshanroshan60780/leetcodeques/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0494-target-sum](https://github.com/roshanroshan60780/leetcodeques/tree/master/0494-target-sum) |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/roshanroshan60780/leetcodeques/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/roshanroshan60780/leetcodeques/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/roshanroshan60780/leetcodeques/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/roshanroshan60780/leetcodeques/tree/master/0347-top-k-frequent-elements) |
 ## Sliding Window
 |  |
 | ------- |
@@ -348,11 +352,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/roshanroshan60780/leetcodeques/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/roshanroshan60780/leetcodeques/tree/master/0347-top-k-frequent-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/roshanroshan60780/leetcodeques/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/roshanroshan60780/leetcodeques/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/roshanroshan60780/leetcodeques/tree/master/0347-top-k-frequent-elements) |
 | [0743-network-delay-time](https://github.com/roshanroshan60780/leetcodeques/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/roshanroshan60780/leetcodeques/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/roshanroshan60780/leetcodeques/tree/master/1631-path-with-minimum-effort) |
@@ -395,4 +401,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/roshanroshan60780/leetcodeques/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/roshanroshan60780/leetcodeques/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/roshanroshan60780/leetcodeques/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
