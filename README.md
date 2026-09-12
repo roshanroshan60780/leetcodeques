@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/roshanroshan60780/leetcodeques/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/roshanroshan60780/leetcodeques/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/roshanroshan60780/leetcodeques/tree/master/0222-count-complete-tree-nodes) |
+| [0338-counting-bits](https://github.com/roshanroshan60780/leetcodeques/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/roshanroshan60780/leetcodeques/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/roshanroshan60780/leetcodeques/tree/master/0371-sum-of-two-integers) |
 | [0645-set-mismatch](https://github.com/roshanroshan60780/leetcodeques/tree/master/0645-set-mismatch) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/roshanroshan60780/leetcodeques/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/roshanroshan60780/leetcodeques/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/roshanroshan60780/leetcodeques/tree/master/0337-house-robber-iii) |
+| [0338-counting-bits](https://github.com/roshanroshan60780/leetcodeques/tree/master/0338-counting-bits) |
 | [0416-partition-equal-subset-sum](https://github.com/roshanroshan60780/leetcodeques/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/roshanroshan60780/leetcodeques/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/roshanroshan60780/leetcodeques/tree/master/0542-01-matrix) |
