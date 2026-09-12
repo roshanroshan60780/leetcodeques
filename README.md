@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/roshanroshan60780/leetcodeques/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/roshanroshan60780/leetcodeques/tree/master/1345-jump-game-iv) |
 | [1631-path-with-minimum-effort](https://github.com/roshanroshan60780/leetcodeques/tree/master/1631-path-with-minimum-effort) |
+| [1696-jump-game-vi](https://github.com/roshanroshan60780/leetcodeques/tree/master/1696-jump-game-vi) |
 | [1901-find-a-peak-element-ii](https://github.com/roshanroshan60780/leetcodeques/tree/master/1901-find-a-peak-element-ii) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/roshanroshan60780/leetcodeques/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2643-row-with-maximum-ones](https://github.com/roshanroshan60780/leetcodeques/tree/master/2643-row-with-maximum-ones) |
@@ -321,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/roshanroshan60780/leetcodeques/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/roshanroshan60780/leetcodeques/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/roshanroshan60780/leetcodeques/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1696-jump-game-vi](https://github.com/roshanroshan60780/leetcodeques/tree/master/1696-jump-game-vi) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/roshanroshan60780/leetcodeques/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3840-house-robber-v](https://github.com/roshanroshan60780/leetcodeques/tree/master/3840-house-robber-v) |
 ## Backtracking
@@ -385,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/roshanroshan60780/leetcodeques/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/roshanroshan60780/leetcodeques/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/roshanroshan60780/leetcodeques/tree/master/1631-path-with-minimum-effort) |
+| [1696-jump-game-vi](https://github.com/roshanroshan60780/leetcodeques/tree/master/1696-jump-game-vi) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
@@ -429,4 +432,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/roshanroshan60780/leetcodeques/tree/master/0347-top-k-frequent-elements) |
+## Queue
+|  |
+| ------- |
+| [1696-jump-game-vi](https://github.com/roshanroshan60780/leetcodeques/tree/master/1696-jump-game-vi) |
+## Monotonic Queue
+|  |
+| ------- |
+| [1696-jump-game-vi](https://github.com/roshanroshan60780/leetcodeques/tree/master/1696-jump-game-vi) |
 <!---LeetCode Topics End-->
