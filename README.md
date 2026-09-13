@@ -345,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/roshanroshan60780/leetcodeques/tree/master/0007-reverse-integer) |
 | [0062-unique-paths](https://github.com/roshanroshan60780/leetcodeques/tree/master/0062-unique-paths) |
 | [0326-power-of-three](https://github.com/roshanroshan60780/leetcodeques/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/roshanroshan60780/leetcodeques/tree/master/0342-power-of-four) |
