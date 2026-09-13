@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/roshanroshan60780/leetcodeques/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/roshanroshan60780/leetcodeques/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/roshanroshan60780/leetcodeques/tree/master/0144-binary-tree-preorder-traversal) |
+| [0227-basic-calculator-ii](https://github.com/roshanroshan60780/leetcodeques/tree/master/0227-basic-calculator-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/roshanroshan60780/leetcodeques/tree/master/0091-decode-ways) |
 | [0126-word-ladder-ii](https://github.com/roshanroshan60780/leetcodeques/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/roshanroshan60780/leetcodeques/tree/master/0127-word-ladder) |
+| [0227-basic-calculator-ii](https://github.com/roshanroshan60780/leetcodeques/tree/master/0227-basic-calculator-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/roshanroshan60780/leetcodeques/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/roshanroshan60780/leetcodeques/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Design
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/roshanroshan60780/leetcodeques/tree/master/0007-reverse-integer) |
 | [0062-unique-paths](https://github.com/roshanroshan60780/leetcodeques/tree/master/0062-unique-paths) |
+| [0227-basic-calculator-ii](https://github.com/roshanroshan60780/leetcodeques/tree/master/0227-basic-calculator-ii) |
 | [0326-power-of-three](https://github.com/roshanroshan60780/leetcodeques/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/roshanroshan60780/leetcodeques/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/roshanroshan60780/leetcodeques/tree/master/0371-sum-of-two-integers) |
