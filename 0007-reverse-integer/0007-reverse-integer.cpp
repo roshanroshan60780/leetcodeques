@@ -1,23 +1,15 @@
 class Solution {
 public:
     int reverse(int x) {
-        if(x==-2147483648) return 0;
-        string xstr = to_string(abs(x));
-        string revstr(xstr.rbegin(), xstr.rend());
-        string maxint="2147483647";
-        string minint="2147483648";
-        if(x>0){
-        if(revstr.size()==10 && revstr>maxint) return 0;
-            int rev=stoi(revstr);
-            return rev;
+        int ans = 0;
+        while(x != 0)
+        {
+            int rem = x % 10;
+            if((ans > INT_MAX/10) || (ans < INT_MIN /10))
+            return 0;
+            ans = (ans * 10) + rem;
+            x = x / 10;
         }
-        if(x<0){
-            if(revstr.size()==10 && revstr>minint) return 0;
-            int rev=stoi(revstr);
-            return -1*rev;
-        }
-
-        int rev=stoi(revstr);
-        return rev;
+        return ans;
     }
 };
