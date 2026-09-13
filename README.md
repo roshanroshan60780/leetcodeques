@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/roshanroshan60780/leetcodeques/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/roshanroshan60780/leetcodeques/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/roshanroshan60780/leetcodeques/tree/master/1020-number-of-enclaves) |
+| [1049-last-stone-weight-ii](https://github.com/roshanroshan60780/leetcodeques/tree/master/1049-last-stone-weight-ii) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/roshanroshan60780/leetcodeques/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1288-remove-covered-intervals](https://github.com/roshanroshan60780/leetcodeques/tree/master/1288-remove-covered-intervals) |
 | [1306-jump-game-iii](https://github.com/roshanroshan60780/leetcodeques/tree/master/1306-jump-game-iii) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/roshanroshan60780/leetcodeques/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/roshanroshan60780/leetcodeques/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/roshanroshan60780/leetcodeques/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1049-last-stone-weight-ii](https://github.com/roshanroshan60780/leetcodeques/tree/master/1049-last-stone-weight-ii) |
 | [1696-jump-game-vi](https://github.com/roshanroshan60780/leetcodeques/tree/master/1696-jump-game-vi) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/roshanroshan60780/leetcodeques/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3840-house-robber-v](https://github.com/roshanroshan60780/leetcodeques/tree/master/3840-house-robber-v) |
@@ -415,11 +417,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/roshanroshan60780/leetcodeques/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/roshanroshan60780/leetcodeques/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/roshanroshan60780/leetcodeques/tree/master/0494-target-sum) |
+| [1049-last-stone-weight-ii](https://github.com/roshanroshan60780/leetcodeques/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/roshanroshan60780/leetcodeques/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/roshanroshan60780/leetcodeques/tree/master/0494-target-sum) |
+| [1049-last-stone-weight-ii](https://github.com/roshanroshan60780/leetcodeques/tree/master/1049-last-stone-weight-ii) |
 ## DP on Trees
 |  |
 | ------- |
