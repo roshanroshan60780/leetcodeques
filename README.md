@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/roshanroshan60780/leetcodeques/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/roshanroshan60780/leetcodeques/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/roshanroshan60780/leetcodeques/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/roshanroshan60780/leetcodeques/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/roshanroshan60780/leetcodeques/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0628-maximum-product-of-three-numbers](https://github.com/roshanroshan60780/leetcodeques/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/roshanroshan60780/leetcodeques/tree/master/0645-set-mismatch) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/roshanroshan60780/leetcodeques/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/roshanroshan60780/leetcodeques/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/roshanroshan60780/leetcodeques/tree/master/0300-longest-increasing-subsequence) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/roshanroshan60780/leetcodeques/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/roshanroshan60780/leetcodeques/tree/master/1631-path-with-minimum-effort) |
 | [1901-find-a-peak-element-ii](https://github.com/roshanroshan60780/leetcodeques/tree/master/1901-find-a-peak-element-ii) |
 ## Bit Manipulation
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/roshanroshan60780/leetcodeques/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/roshanroshan60780/leetcodeques/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/roshanroshan60780/leetcodeques/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/roshanroshan60780/leetcodeques/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0416-partition-equal-subset-sum](https://github.com/roshanroshan60780/leetcodeques/tree/master/0416-partition-equal-subset-sum) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/roshanroshan60780/leetcodeques/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0494-target-sum](https://github.com/roshanroshan60780/leetcodeques/tree/master/0494-target-sum) |
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/roshanroshan60780/leetcodeques/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/roshanroshan60780/leetcodeques/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/roshanroshan60780/leetcodeques/tree/master/0240-search-a-2d-matrix-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/roshanroshan60780/leetcodeques/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0542-01-matrix](https://github.com/roshanroshan60780/leetcodeques/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/roshanroshan60780/leetcodeques/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/roshanroshan60780/leetcodeques/tree/master/0994-rotting-oranges) |
@@ -397,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/roshanroshan60780/leetcodeques/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/roshanroshan60780/leetcodeques/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/roshanroshan60780/leetcodeques/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0743-network-delay-time](https://github.com/roshanroshan60780/leetcodeques/tree/master/0743-network-delay-time) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/roshanroshan60780/leetcodeques/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/roshanroshan60780/leetcodeques/tree/master/1631-path-with-minimum-effort) |
