@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/roshanroshan60780/leetcodeques/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/roshanroshan60780/leetcodeques/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/roshanroshan60780/leetcodeques/tree/master/0240-search-a-2d-matrix-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/roshanroshan60780/leetcodeques/tree/master/0300-longest-increasing-subsequence) |
 | [1631-path-with-minimum-effort](https://github.com/roshanroshan60780/leetcodeques/tree/master/1631-path-with-minimum-effort) |
 | [1901-find-a-peak-element-ii](https://github.com/roshanroshan60780/leetcodeques/tree/master/1901-find-a-peak-element-ii) |
 ## Bit Manipulation
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/roshanroshan60780/leetcodeques/tree/master/0228-summary-ranges) |
 | [0229-majority-element-ii](https://github.com/roshanroshan60780/leetcodeques/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/roshanroshan60780/leetcodeques/tree/master/0240-search-a-2d-matrix-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/roshanroshan60780/leetcodeques/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/roshanroshan60780/leetcodeques/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/roshanroshan60780/leetcodeques/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/roshanroshan60780/leetcodeques/tree/master/0416-partition-equal-subset-sum) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/roshanroshan60780/leetcodeques/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/roshanroshan60780/leetcodeques/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/roshanroshan60780/leetcodeques/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/roshanroshan60780/leetcodeques/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/roshanroshan60780/leetcodeques/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/roshanroshan60780/leetcodeques/tree/master/0337-house-robber-iii) |
 | [0338-counting-bits](https://github.com/roshanroshan60780/leetcodeques/tree/master/0338-counting-bits) |
@@ -452,4 +455,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1696-jump-game-vi](https://github.com/roshanroshan60780/leetcodeques/tree/master/1696-jump-game-vi) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/roshanroshan60780/leetcodeques/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
