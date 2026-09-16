@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/roshanroshan60780/leetcodeques/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/roshanroshan60780/leetcodeques/tree/master/0144-binary-tree-preorder-traversal) |
 | [0227-basic-calculator-ii](https://github.com/roshanroshan60780/leetcodeques/tree/master/0227-basic-calculator-ii) |
+| [0769-max-chunks-to-make-sorted](https://github.com/roshanroshan60780/leetcodeques/tree/master/0769-max-chunks-to-make-sorted) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/roshanroshan60780/leetcodeques/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0628-maximum-product-of-three-numbers](https://github.com/roshanroshan60780/leetcodeques/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/roshanroshan60780/leetcodeques/tree/master/0645-set-mismatch) |
+| [0769-max-chunks-to-make-sorted](https://github.com/roshanroshan60780/leetcodeques/tree/master/0769-max-chunks-to-make-sorted) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/roshanroshan60780/leetcodeques/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1288-remove-covered-intervals](https://github.com/roshanroshan60780/leetcodeques/tree/master/1288-remove-covered-intervals) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/roshanroshan60780/leetcodeques/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/roshanroshan60780/leetcodeques/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/roshanroshan60780/leetcodeques/tree/master/0645-set-mismatch) |
 | [0733-flood-fill](https://github.com/roshanroshan60780/leetcodeques/tree/master/0733-flood-fill) |
+| [0769-max-chunks-to-make-sorted](https://github.com/roshanroshan60780/leetcodeques/tree/master/0769-max-chunks-to-make-sorted) |
 | [0994-rotting-oranges](https://github.com/roshanroshan60780/leetcodeques/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/roshanroshan60780/leetcodeques/tree/master/1020-number-of-enclaves) |
 | [1049-last-stone-weight-ii](https://github.com/roshanroshan60780/leetcodeques/tree/master/1049-last-stone-weight-ii) |
@@ -356,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/roshanroshan60780/leetcodeques/tree/master/0045-jump-game-ii) |
 | [0134-gas-station](https://github.com/roshanroshan60780/leetcodeques/tree/master/0134-gas-station) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/roshanroshan60780/leetcodeques/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0769-max-chunks-to-make-sorted](https://github.com/roshanroshan60780/leetcodeques/tree/master/0769-max-chunks-to-make-sorted) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/roshanroshan60780/leetcodeques/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
 |  |
@@ -468,4 +472,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/roshanroshan60780/leetcodeques/tree/master/0300-longest-increasing-subsequence) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0769-max-chunks-to-make-sorted](https://github.com/roshanroshan60780/leetcodeques/tree/master/0769-max-chunks-to-make-sorted) |
 <!---LeetCode Topics End-->
