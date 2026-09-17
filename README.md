@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/roshanroshan60780/leetcodeques/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/roshanroshan60780/leetcodeques/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1345-jump-game-iv](https://github.com/roshanroshan60780/leetcodeques/tree/master/1345-jump-game-iv) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/roshanroshan60780/leetcodeques/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1980-find-unique-binary-string](https://github.com/roshanroshan60780/leetcodeques/tree/master/1980-find-unique-binary-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/roshanroshan60780/leetcodeques/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Sorting
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/roshanroshan60780/leetcodeques/tree/master/0240-search-a-2d-matrix-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/roshanroshan60780/leetcodeques/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/roshanroshan60780/leetcodeques/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/roshanroshan60780/leetcodeques/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1631-path-with-minimum-effort](https://github.com/roshanroshan60780/leetcodeques/tree/master/1631-path-with-minimum-effort) |
 | [1901-find-a-peak-element-ii](https://github.com/roshanroshan60780/leetcodeques/tree/master/1901-find-a-peak-element-ii) |
 ## Bit Manipulation
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1288-remove-covered-intervals](https://github.com/roshanroshan60780/leetcodeques/tree/master/1288-remove-covered-intervals) |
 | [1306-jump-game-iii](https://github.com/roshanroshan60780/leetcodeques/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/roshanroshan60780/leetcodeques/tree/master/1345-jump-game-iv) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/roshanroshan60780/leetcodeques/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1631-path-with-minimum-effort](https://github.com/roshanroshan60780/leetcodeques/tree/master/1631-path-with-minimum-effort) |
 | [1696-jump-game-vi](https://github.com/roshanroshan60780/leetcodeques/tree/master/1696-jump-game-vi) |
 | [1901-find-a-peak-element-ii](https://github.com/roshanroshan60780/leetcodeques/tree/master/1901-find-a-peak-element-ii) |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/roshanroshan60780/leetcodeques/tree/master/0219-contains-duplicate-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/roshanroshan60780/leetcodeques/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Union-Find
 |  |
 | ------- |
@@ -343,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/roshanroshan60780/leetcodeques/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/roshanroshan60780/leetcodeques/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1049-last-stone-weight-ii](https://github.com/roshanroshan60780/leetcodeques/tree/master/1049-last-stone-weight-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/roshanroshan60780/leetcodeques/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1696-jump-game-vi](https://github.com/roshanroshan60780/leetcodeques/tree/master/1696-jump-game-vi) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/roshanroshan60780/leetcodeques/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [3840-house-robber-v](https://github.com/roshanroshan60780/leetcodeques/tree/master/3840-house-robber-v) |
