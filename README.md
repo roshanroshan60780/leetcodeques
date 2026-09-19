@@ -376,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/roshanroshan60780/leetcodeques/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/roshanroshan60780/leetcodeques/tree/master/0371-sum-of-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/roshanroshan60780/leetcodeques/tree/master/0628-maximum-product-of-three-numbers) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/roshanroshan60780/leetcodeques/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Recursion
 |  |
 | ------- |
@@ -481,4 +482,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0769-max-chunks-to-make-sorted](https://github.com/roshanroshan60780/leetcodeques/tree/master/0769-max-chunks-to-make-sorted) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/roshanroshan60780/leetcodeques/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
