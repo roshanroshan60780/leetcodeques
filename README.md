@@ -163,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0769-max-chunks-to-make-sorted](https://github.com/roshanroshan60780/leetcodeques/tree/master/0769-max-chunks-to-make-sorted) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/roshanroshan60780/leetcodeques/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1288-remove-covered-intervals](https://github.com/roshanroshan60780/leetcodeques/tree/master/1288-remove-covered-intervals) |
+| [1921-eliminate-maximum-number-of-monsters](https://github.com/roshanroshan60780/leetcodeques/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/roshanroshan60780/leetcodeques/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Binary Search
 |  |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/roshanroshan60780/leetcodeques/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1696-jump-game-vi](https://github.com/roshanroshan60780/leetcodeques/tree/master/1696-jump-game-vi) |
 | [1901-find-a-peak-element-ii](https://github.com/roshanroshan60780/leetcodeques/tree/master/1901-find-a-peak-element-ii) |
+| [1921-eliminate-maximum-number-of-monsters](https://github.com/roshanroshan60780/leetcodeques/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [1980-find-unique-binary-string](https://github.com/roshanroshan60780/leetcodeques/tree/master/1980-find-unique-binary-string) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/roshanroshan60780/leetcodeques/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2643-row-with-maximum-ones](https://github.com/roshanroshan60780/leetcodeques/tree/master/2643-row-with-maximum-ones) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/roshanroshan60780/leetcodeques/tree/master/0134-gas-station) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/roshanroshan60780/leetcodeques/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0769-max-chunks-to-make-sorted](https://github.com/roshanroshan60780/leetcodeques/tree/master/0769-max-chunks-to-make-sorted) |
+| [1921-eliminate-maximum-number-of-monsters](https://github.com/roshanroshan60780/leetcodeques/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/roshanroshan60780/leetcodeques/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Math
 |  |
