@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/roshanroshan60780/leetcodeques/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/roshanroshan60780/leetcodeques/tree/master/0144-binary-tree-preorder-traversal) |
 | [0227-basic-calculator-ii](https://github.com/roshanroshan60780/leetcodeques/tree/master/0227-basic-calculator-ii) |
+| [0678-valid-parenthesis-string](https://github.com/roshanroshan60780/leetcodeques/tree/master/0678-valid-parenthesis-string) |
 | [0769-max-chunks-to-make-sorted](https://github.com/roshanroshan60780/leetcodeques/tree/master/0769-max-chunks-to-make-sorted) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/roshanroshan60780/leetcodeques/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Depth-First Search
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/roshanroshan60780/leetcodeques/tree/master/0127-word-ladder) |
 | [0227-basic-calculator-ii](https://github.com/roshanroshan60780/leetcodeques/tree/master/0227-basic-calculator-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/roshanroshan60780/leetcodeques/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0678-valid-parenthesis-string](https://github.com/roshanroshan60780/leetcodeques/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/roshanroshan60780/leetcodeques/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1980-find-unique-binary-string](https://github.com/roshanroshan60780/leetcodeques/tree/master/1980-find-unique-binary-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/roshanroshan60780/leetcodeques/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/roshanroshan60780/leetcodeques/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/roshanroshan60780/leetcodeques/tree/master/0494-target-sum) |
 | [0542-01-matrix](https://github.com/roshanroshan60780/leetcodeques/tree/master/0542-01-matrix) |
+| [0678-valid-parenthesis-string](https://github.com/roshanroshan60780/leetcodeques/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/roshanroshan60780/leetcodeques/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1049-last-stone-weight-ii](https://github.com/roshanroshan60780/leetcodeques/tree/master/1049-last-stone-weight-ii) |
 | [1463-cherry-pickup-ii](https://github.com/roshanroshan60780/leetcodeques/tree/master/1463-cherry-pickup-ii) |
@@ -379,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/roshanroshan60780/leetcodeques/tree/master/0045-jump-game-ii) |
 | [0134-gas-station](https://github.com/roshanroshan60780/leetcodeques/tree/master/0134-gas-station) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/roshanroshan60780/leetcodeques/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0678-valid-parenthesis-string](https://github.com/roshanroshan60780/leetcodeques/tree/master/0678-valid-parenthesis-string) |
 | [0769-max-chunks-to-make-sorted](https://github.com/roshanroshan60780/leetcodeques/tree/master/0769-max-chunks-to-make-sorted) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/roshanroshan60780/leetcodeques/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/roshanroshan60780/leetcodeques/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -507,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/roshanroshan60780/leetcodeques/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/roshanroshan60780/leetcodeques/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Prefix Sum
 |  |
