@@ -80,7 +80,7 @@ public:
                 ans=max(ans,temp+1);
             }
         }
-        if(ans==0) return ds.composize(ds.findUPar(0));
+        if(ans==0) return n*n;  // it will be zero if there is no 0 in grid so largest island will be total gride size
         return ans;
     }
 };
