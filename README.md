@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1306-jump-game-iii](https://github.com/roshanroshan60780/leetcodeques/tree/master/1306-jump-game-iii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/roshanroshan60780/leetcodeques/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1345-jump-game-iv](https://github.com/roshanroshan60780/leetcodeques/tree/master/1345-jump-game-iv) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/roshanroshan60780/leetcodeques/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/roshanroshan60780/leetcodeques/tree/master/1631-path-with-minimum-effort) |
 ## Binary Tree
 |  |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/roshanroshan60780/leetcodeques/tree/master/1020-number-of-enclaves) |
 | [1306-jump-game-iii](https://github.com/roshanroshan60780/leetcodeques/tree/master/1306-jump-game-iii) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/roshanroshan60780/leetcodeques/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/roshanroshan60780/leetcodeques/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/roshanroshan60780/leetcodeques/tree/master/1631-path-with-minimum-effort) |
 ## Hash Table
 |  |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1345-jump-game-iv](https://github.com/roshanroshan60780/leetcodeques/tree/master/1345-jump-game-iv) |
 | [1463-cherry-pickup-ii](https://github.com/roshanroshan60780/leetcodeques/tree/master/1463-cherry-pickup-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/roshanroshan60780/leetcodeques/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/roshanroshan60780/leetcodeques/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1590-make-sum-divisible-by-p](https://github.com/roshanroshan60780/leetcodeques/tree/master/1590-make-sum-divisible-by-p) |
 | [1631-path-with-minimum-effort](https://github.com/roshanroshan60780/leetcodeques/tree/master/1631-path-with-minimum-effort) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/roshanroshan60780/leetcodeques/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -319,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0827-making-a-large-island](https://github.com/roshanroshan60780/leetcodeques/tree/master/0827-making-a-large-island) |
 | [1020-number-of-enclaves](https://github.com/roshanroshan60780/leetcodeques/tree/master/1020-number-of-enclaves) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/roshanroshan60780/leetcodeques/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/roshanroshan60780/leetcodeques/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/roshanroshan60780/leetcodeques/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
@@ -350,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/roshanroshan60780/leetcodeques/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/roshanroshan60780/leetcodeques/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1463-cherry-pickup-ii](https://github.com/roshanroshan60780/leetcodeques/tree/master/1463-cherry-pickup-ii) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/roshanroshan60780/leetcodeques/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1631-path-with-minimum-effort](https://github.com/roshanroshan60780/leetcodeques/tree/master/1631-path-with-minimum-effort) |
 | [1901-find-a-peak-element-ii](https://github.com/roshanroshan60780/leetcodeques/tree/master/1901-find-a-peak-element-ii) |
 | [2643-row-with-maximum-ones](https://github.com/roshanroshan60780/leetcodeques/tree/master/2643-row-with-maximum-ones) |
