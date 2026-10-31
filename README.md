@@ -223,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/roshanroshan60780/leetcodeques/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/roshanroshan60780/leetcodeques/tree/master/0678-valid-parenthesis-string) |
 | [0721-accounts-merge](https://github.com/roshanroshan60780/leetcodeques/tree/master/0721-accounts-merge) |
+| [1143-longest-common-subsequence](https://github.com/roshanroshan60780/leetcodeques/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/roshanroshan60780/leetcodeques/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1980-find-unique-binary-string](https://github.com/roshanroshan60780/leetcodeques/tree/master/1980-find-unique-binary-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/roshanroshan60780/leetcodeques/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/roshanroshan60780/leetcodeques/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/roshanroshan60780/leetcodeques/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1049-last-stone-weight-ii](https://github.com/roshanroshan60780/leetcodeques/tree/master/1049-last-stone-weight-ii) |
+| [1143-longest-common-subsequence](https://github.com/roshanroshan60780/leetcodeques/tree/master/1143-longest-common-subsequence) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/roshanroshan60780/leetcodeques/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1463-cherry-pickup-ii](https://github.com/roshanroshan60780/leetcodeques/tree/master/1463-cherry-pickup-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/roshanroshan60780/leetcodeques/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -551,4 +553,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/roshanroshan60780/leetcodeques/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/roshanroshan60780/leetcodeques/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
